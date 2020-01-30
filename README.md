@@ -19,7 +19,7 @@
 If you want all the dirt on sys.dm_os_sys_info just go here: https://msdn.microsoft.com/en-us/library/ms175048(v=sql.110).aspx
 Here's some quick SQL Logic to get you started.</p>
 
-![Get Number Of Cores In SQL Server]( https://mikesdatawork.files.wordpress.com/2016/10/image0013.pngf "Get Number of Cores In SQL Server")
+![Get Number Of Cores In SQL Server](https://mikesdatawork.files.wordpress.com/2016/10/image0013.png "Get Number of Cores In SQL Server")
  
 
     
